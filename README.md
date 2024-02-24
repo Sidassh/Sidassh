@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sidassh
-- 👀 I’m interested in Developing 
+- 👀 I’m interested in Web Developing 
 - 🌱 I’m currently learning frameworks like react and node
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @siddheshb05@gmail.com
